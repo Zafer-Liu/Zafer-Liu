@@ -113,4 +113,4 @@
 
 Building AI products that **empower businesses** to make better, faster decisions using data insights. I believe in using technology to drive **strategic business growth**.
 
-**我的目标是：通过数据和AI技术，帮助企业现快速且明智的决策，驱动战略性商业增长。**
+**我的目标是：通过数据和AI技术，帮助企业实现快速且明智的决策，驱动战略实现。**
