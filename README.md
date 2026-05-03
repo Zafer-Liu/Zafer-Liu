@@ -1,116 +1,72 @@
-# Hi, I'm Zafer Liu 👋
+# Hi, I'm Zafer Liu
 
 <p align="center">
-  <a href="mailto:Juxing2004@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Juxing2004@outlook.com-c14438?style=flat&logo=Gmail"/>
-  </a>
-  <a href="https://www.tsinghua.edu.cn">
-    <img src="https://img.shields.io/badge/Tsinghua%20University-c14438?style=flat"/>
-  </a>
+  <a href="mailto:Juxing2004@outlook.com"><img src="https://img.shields.io/badge/Email-Juxing2004@outlook.com-c14438?style=flat&logo=Gmail" alt="Email"/></a>
+  <a href="https://www.tsinghua.edu.cn"><img src="https://img.shields.io/badge/Tsinghua%20University-c14438?style=flat" alt="Tsinghua"/></a>
+</p>
+
+<p align="center">
+  <img src="./profile/stats.svg" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 ---
 
-## 🚀 About Me | 关于我
+## Education
 
-🎯 **Focus on AI Product Manager & Business Analyst**  
-📊 Combining data-driven insights with AI tools to develop impactful products.  
-⚖️ Background in **Law**, **Business Administration**, and **Technology**.  
+| Degree | School | Major | Period |
+|--------|--------|-------|--------|
+| Master's | Tsinghua University (985) | Law | 2026.09 - 2028.07 |
+| Bachelor's | NEU (985) | Business Administration | 2022.09 - 2026.07 |
 
-- **Focus**: Building AI-powered decision-making systems, product strategy, and automation tools.  
-- **Passion**: Transforming data into actionable insights for business growth.  
-- **Professional certificate**：PMP，ACCA Affiliate
----
-
-## 🛠️ Tech Stack | 技术栈
-
-**Languages & Data**  
-- Python · SQL · R
-
-**Data Analysis**  
-- Pandas · Stata · SPSS · Tableau
-
-**Web Development & AI**  
-- Flask · JavaScript · ECharts
-
-**Tools**  
-- Git · Jupyter · VSCode · Docker
+**Awards:** National Scholarship
 
 ---
 
-## 🌟 Featured Projects | 精选项目
+## Certifications & Skills
 
-### 🔹 [VizPilot AI](https://github.com/Zafer-Liu/VizPilot_AI) ⭐196
-> 📊 **AI-powered data visualization & recommendation tool**
-
-- Upload your data → Get automated chart recommendations → Generate interactive visualizations  
-- Built with **HTML + JavaScript + ECharts**  
-- Focus: Improving **data-driven decision-making** through AI and intuitive UI
-
----
-
-### 🔹 [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) ⭐62
-> 🤖 **Automated AI-driven research report generator**
-
-- AI analyzes data and generates structured, customizable research reports  
-- Built with **Python**  
-- Use case: **Optimizing information research workflow** for data-intensive industries
+| Category | Content |
+|----------|---------|
+| Languages | TOEFL 104, Mandarin 2A |
+| Finance | ACCA Affiliate, CPBA |
+| Management | PMP |
+| Tech | Python, SQL, RStudio, Stata, SPSS, Tableau, Flask |
 
 ---
 
-### 🔹 [Self Learning Agent](https://github.com/Zafer-Liu/Self_Learning_Agent) ⭐42
-> 🧠 **Build your own intelligent self-learning agent**
+## Experience
 
-- AI-powered agent that learns autonomously and adapts to new tasks  
-- Built with **TypeScript**  
-- Focus: **AI agent development** for autonomous decision-making and optimization
+**DiDi** - Business Analyst @ LatAm · 2026.03 - 2026.07
 
----
+**KPMG** - Consulting Assistant · 2025.10 - 2026.02
 
-## 💼 Experience | 工作经验
-
-- **DiDi** — Business Analyst (LatAm)  
-  *Mar 2026 – Jul 2026*  
-  Focused on **data analysis** to optimize operational strategies and drive decision-making.
-
-- **KPMG** — Consulting Assistant  
-  *Oct 2025 – Feb 2026*  
-  Assisted in **data-driven consulting** for international clients, providing insights for strategic business decisions.
-
-- **CUFE CSR Center** — Research Assistant  
-  *Dec 2024 – Mar 2025*  
-  Conducted **CSR research**, analyzing the impact of business on sustainable development policies.
+**CUFE** - Research Assistant @ CSR Center · 2024.12 - 2025.03
 
 ---
 
-## 🎓 Education | 教育背景
+## Projects
 
-- **Tsinghua University** — Master of Law  
-  *2026 – 2028 (expected)*
+### [VizPilot AI](https://github.com/Zafer-Liu/VizPilot_AI) — 196
+Upload data, get chart recommendations, and generate interactive visualizations in one click. Built with HTML/JavaScript/ECharts.
 
-- **NEU** — Bachelor of Business Administration  
-  *2022 – 2026*
+### [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) — 62
+AI-driven information research report automation tool for OpenClaw. Built with Python.
 
----
-
-## 🏆 Awards | 奖项
-
-- 🥈 **National Second Place** — "Shareholders Come" Final (Hunan TV)  
-- 🎾 **Tennis Doubles Runner-up**  
-- 🎨 **Adobe Visual Design Specialist**  
-- 🎓 **National Scholarship**
+### [Self Learning Agent](https://github.com/Zafer-Liu/Self_Learning_Agent) — 42
+Build your genius agent. Built with TypeScript.
 
 ---
 
-## 📫 Contact | 联系方式
+## Awards
 
-- 📧 **Email**: Juxing2004@outlook.com  
-- 📱 **WeChat/Phone**: +86 185 0234 3849
+- National Second Place, "Shareholders Come" Final (Hunan TV)
+- Tennis Double Runner-up
+- Adobe Visual Design Specialist
 
 ---
 
-## 🌍  My Vision | 我的愿景
+## Contact
 
-Building AI products that **empower businesses** to make better, faster decisions using data insights. I believe in using technology to drive **strategic business growth**.
-
-**我的目标是：通过数据和AI技术，帮助企业实现快速且明智的决策，驱动战略实现。**
+| WeChat/Phone | Email |
+|-------------|-------|
+| +86 185 0234 3849 | Juxing2004@outlook.com |
