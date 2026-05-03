@@ -38,6 +38,11 @@
 
 ---
 
+### 📊 我的 GitHub 统计
+![我的统计](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/stats.svg)
+![常用语言](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/langs.svg)
+
+---
 ## 🌟 Featured Projects | 精选项目
 
 ### 🔹 [VizPilot AI](https://github.com/Zafer-Liu/VizPilot_AI) ⭐196
