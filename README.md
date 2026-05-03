@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 我的 GitHub 统计
+### 📊 My GitHub | 我的 GitHub 统计
 ![我的统计](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/stats.svg)
 ![常用语言](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/langs.svg)
 
