@@ -31,9 +31,9 @@ jobs:
 
       # 提交生成的卡片到仓库
       - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update README cards"
+          file_pattern: profile/*.svg
+          commit_user_name: "github-actions"
+          commit_user_email: "github-actions@users.noreply.github.com"
