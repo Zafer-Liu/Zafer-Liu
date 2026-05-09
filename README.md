@@ -1,4 +1,4 @@
-# Hi, I'm Zafer Liu 👋 （Looking for a job）
+# Hi, I'm Zafer Liu 👋 （Looking for a Job）
 
 <p align="center">
   <a href="mailto:Juxing2004@outlook.com">
