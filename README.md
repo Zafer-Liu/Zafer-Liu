@@ -1,4 +1,4 @@
-# Hi, I'm Zafer Liu 👋
+# Hi, I'm Zafer Liu 👋 （Looking for a job）
 
 <p align="center">
   <a href="mailto:Juxing2004@outlook.com">
@@ -110,7 +110,6 @@
 ## 📫 Contact | 联系方式
 
 - 📧 **Email**: Juxing2004@outlook.com  
-- 📱 **WeChat/Phone**: +86 185 0234 3849
 
 ---
 
