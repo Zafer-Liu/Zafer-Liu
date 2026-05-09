@@ -45,17 +45,18 @@
 ---
 ## 🌟 Featured Projects | 精选项目
 
-### 🔹 [VizPilot AI](https://github.com/Zafer-Liu/VizPilot_AI) ⭐196
-> 📊 **AI-powered data visualization & recommendation tool**
+### 🔹 [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) ⭐1073
+> 📊 **Intelligent Data Analysis Agent for Business Analysts**
 
-- Upload your data → Get automated chart recommendations → Generate interactive visualizations  
+- AI-powered data analysis platform that transforms raw data into actionable insights  
 - Built with **HTML + JavaScript + ECharts**  
-- Focus: Improving **data-driven decision-making** through AI and intuitive UI
+- Features: automated chart generation, data visualization, AI-driven analysis  
+- Topics: agent, ai, charts, data visualization, analysis
 
 ---
 
 ### 🔹 [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) ⭐62
-> 🤖 **Automated AI-driven research report generator**
+> 🤖 **Automated Information Research Report Generator for OpenClaw**
 
 - AI analyzes data and generates structured, customizable research reports  
 - Built with **Python**  
