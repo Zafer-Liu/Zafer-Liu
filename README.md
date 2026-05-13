@@ -37,12 +37,6 @@
 - Git · Jupyter · VSCode · Docker
 
 ---
-
-### 📊 My GitHub | 我的 GitHub 统计
-![我的统计](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/stats.svg)
-![常用语言](https://raw.githubusercontent.com/Zafer-Liu/Zafer-Liu/main/profile/langs.svg)
-
----
 ## 🌟 Featured Projects | 精选项目
 
 ### 🔹 [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) ⭐1073
