@@ -96,7 +96,6 @@ CSR research analyzing business impact on sustainable development policies.
 ## Awards
 
 | | |
-|---|---|
 | 🎓 | National Scholarship |
 | 🥇 | Gold Award — The 12th National Securities Investment Simulation Training Contest |
 | 🥇 | Gold Award — "Challenge Cup" |
