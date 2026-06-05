@@ -1,4 +1,4 @@
-<h1 align="center">Zafer Liu</h1>
+<h1 align="center">👋Hi, I'm Zafer Liu</h1>
 
 <p align="center">
   <b>AI Product Manager · Business Analyst · Law & Technology</b>
@@ -26,20 +26,37 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
 ---
 
-## Tech Stack
+## Education
 
-| Domain | Tools |
-|---|---|
-| Languages | Python · SQL · R · TypeScript · JavaScript |
-| Data & Analysis | Pandas · Stata · SPSS · Tableau |
-| Web & AI | Flask · ECharts · Agent Frameworks |
-| DevOps & Tools | Git · Docker · Jupyter · VSCode |
+<img src="Images/tsinghua.png" height="40" style="vertical-align:middle"/>**Tsinghua University** — Master of Law · `2026 – 2028 (expected)`  
+<img src="Images/neu.png" height="40" style="vertical-align:middle"/>**Northeastern University** — Bachelor of Business Administration · `2022 – 2026`
+
+
+---
+
+## Experience
+
+<img src="Images/tencent.png" height="40" style="vertical-align:middle"/> **Tencent Technology, IEG** — Business Analyst Intern  
+`ongoing`  
+Business analysis within the Interactive Entertainment Group.
+
+<img src="Images/didi.png" height="40" style="vertical-align:middle"/>**DiDi Global** — Business Analyst Intern 
+`Mar 2026 – Jun 2026`  
+Data analysis to optimize operational strategies and support decision-making across Latin America markets.
+
+<img src="Images/kpmg.png" height="30" style="vertical-align:middle"/>**KPMG** — Consulting Assistant  
+`Oct 2025 – Feb 2026`  
+Data-driven consulting for international clients; delivered strategic insights and business recommendations.
+
+<img src="Images/ssrc.png" height="30" style="vertical-align:middle"/>**CUFE SSRC** — Research Assistant  
+`Dec 2024 – Mar 2025`  
+CSR research analyzing business impact on sustainable development policies.
 
 ---
 
 ## Featured Projects
 
-### [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) · ⭐ 1073
+### <img src="Images/Data-Analysis-Agent.png" height="40" style="vertical-align:middle"/> [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) · ⭐ 1073
 
 > Intelligent data analysis platform for business analysts
 
@@ -66,36 +83,13 @@ An AI agent that learns and adapts autonomously, designed for complex decision-m
 
 ---
 
-## Experience
 
-<img src="Image/tencent.png" height="16" style="vertical-align:middle"/> **Tencent Technology, IEG** — Business Analyst Intern  
-`ongoing`  
-Business analysis within the Interactive Entertainment Group.
 
-**DiDi Global** — Business Analyst Intern 
-`Mar 2026 – Jun 2026`  
-Data analysis to optimize operational strategies and support decision-making across Latin America markets.
-
-**KPMG** — Consulting Assistant  
-`Oct 2025 – Feb 2026`  
-Data-driven consulting for international clients; delivered strategic insights and business recommendations.
-
-**CUFE CSR Center** — Research Assistant  
-`Dec 2024 – Mar 2025`  
-CSR research analyzing business impact on sustainable development policies.
-
----
-
-## Education
-
-**Tsinghua University** — Master of Law · `2026 – 2028 (expected)`  
-**Northeastern University (NEU)** — Bachelor of Business Administration · `2022 – 2026`
-
----
 
 ## Awards
 
 | | |
+|---|---|
 | 🎓 | National Scholarship |
 | 🥇 | Gold Award — The 12th National Securities Investment Simulation Training Contest |
 | 🥇 | Gold Award — "Challenge Cup" |
