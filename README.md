@@ -37,11 +37,11 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
 ## Experience
 
-<img src="Images/tencent.png" height="30" align="center" /> **Tencent Technology, IEG** — Business Analyst Intern  
+<img src="Images/tencent.png" height="30" width="120" align="center" /> **Tencent Technology, IEG** — Business Analyst Intern  
 `ongoing`  
 Business analysis within the Interactive Entertainment Group.
 
-<img src="Images/didi.png" height="30" align="center" />**DiDi Global** — Business Analyst Intern 
+<img src="Images/didi.png" height="30" width="120" align="center" />**DiDi Global** — Business Analyst Intern 
 `Mar 2026 – Jun 2026`  
 Data analysis to optimize operational strategies and support decision-making across Latin America markets.
 
