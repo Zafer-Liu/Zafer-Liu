@@ -40,10 +40,10 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="Images/tencent.png" height="30" />
+      <img src="Images/tencent.png" height="40" />
     </td>
     <td valign="middle">
-      <strong>Tencent Technology, IEG</strong> — Business Analyst Intern<br>
+      <strong>Tencent Technology</strong> — Business Analyst Intern<br>
       <code>ongoing</code><br>
       Business analysis within the Interactive Entertainment Group.
     </td>
@@ -51,7 +51,7 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
   <tr>
     <td align="center" valign="middle">
-      <img src="Images/didi.png" height="30" />
+      <img src="Images/didi.png" height="40" />
     </td>
     <td valign="middle">
       <strong>DiDi Global</strong> — Business Analyst Intern<br>
