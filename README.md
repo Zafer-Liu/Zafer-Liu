@@ -37,21 +37,51 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
 ## Experience
 
-<img src="Images/tencent.png" height="30" width="120" align="center" /> **Tencent Technology, IEG** — Business Analyst Intern  
-`ongoing`  
-Business analysis within the Interactive Entertainment Group.
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Images/tencent.png" height="30" />
+    </td>
+    <td valign="middle">
+      <strong>Tencent Technology, IEG</strong> — Business Analyst Intern<br>
+      <code>ongoing</code><br>
+      Business analysis within the Interactive Entertainment Group.
+    </td>
+  </tr>
 
-<img src="Images/didi.png" height="30" width="120" align="center" />**DiDi Global** — Business Analyst Intern 
-`Mar 2026 – Jun 2026`  
-Data analysis to optimize operational strategies and support decision-making across Latin America markets.
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Images/didi.png" height="30" />
+    </td>
+    <td valign="middle">
+      <strong>DiDi Global</strong> — Business Analyst Intern<br>
+      <code>Mar 2026 – Jun 2026</code><br>
+      Data analysis to optimize operational strategies and support decision-making across Latin America markets.
+    </td>
+  </tr>
 
-<img src="Images/kpmg.png" height="30" align="center" />**KPMG** — Consulting Assistant  
-`Oct 2025 – Feb 2026`  
-Data-driven consulting for international clients; delivered strategic insights and business recommendations.
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Images/kpmg.png" height="30" />
+    </td>
+    <td valign="middle">
+      <strong>KPMG</strong> — Consulting Assistant<br>
+      <code>Oct 2025 – Feb 2026</code><br>
+      Data-driven consulting for international clients; delivered strategic insights and business recommendations.
+    </td>
+  </tr>
 
-<img src="Images/ssrc.png" height="30" align="center" />**CUFE SSRC** — Research Assistant  
-`Dec 2024 – Mar 2025`  
-CSR research analyzing business impact on sustainable development policies.
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Images/ssrc.png" height="30" />
+    </td>
+    <td valign="middle">
+      <strong>CUFE SSRC</strong> — Research Assistant<br>
+      <code>Dec 2024 – Mar 2025</code><br>
+      CSR research analyzing business impact on sustainable development policies.
+    </td>
+  </tr>
+</table>
 
 ---
 
