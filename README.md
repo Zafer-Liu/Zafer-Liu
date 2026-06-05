@@ -28,9 +28,9 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
 ## Education
 
-<img src="Images/tsinghua.png" height="30" style="vertical-align:-50px"/> **Tsinghua University** — Master of Law · `2026 – 2028 (expected)` 
+<img src="Images/tsinghua.png" height="22" align="center" /> **Tsinghua University** — Master of Law · `2026 – 2028 (expected)`
 
-<img src="Images/neu.png" height="30" style="vertical-align:middle"/> **Northeastern University** — Bachelor of Business Administration · `2022 – 2026`
+<img src="Images/neu.png" height="22" align="center" /> **Northeastern University** — Bachelor of Business Administration · `2022 – 2026`
 
 
 ---
