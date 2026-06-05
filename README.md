@@ -36,7 +36,7 @@ AI Product Manager and Business Analyst with a cross-disciplinary background in 
 
 ## Experience
 
-<img src="Images/tencent.png" height="40" style="vertical-align:middle"/> **Tencent Technology, IEG** — Business Analyst Intern  
+<img src="Images/tencent.png" height="20" style="vertical-align:middle"/> **Tencent Technology, IEG** — Business Analyst Intern  
 `ongoing`  
 Business analysis within the Interactive Entertainment Group.
 
