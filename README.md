@@ -1,115 +1,118 @@
-# Hi, I'm Zafer Liu 👋 （Looking for a Job）
+<h1 align="center">Zafer Liu</h1>
+
+<p align="center">
+  <b>AI Product Manager · Business Analyst · Law & Technology</b>
+</p>
 
 <p align="center">
   <a href="mailto:Juxing2004@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Juxing2004@outlook.com-c14438?style=flat&logo=Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.tsinghua.edu.cn">
-    <img src="https://img.shields.io/badge/Tsinghua%20University-c14438?style=flat"/>
-  </a>
+  <img src="https://img.shields.io/badge/Tsinghua%20University-7C1C2C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PMP%20Certified-0052CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ACCA%20Affiliate-007A4D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2DA44E?style=flat-square"/>
 </p>
 
 ---
 
-## 🚀 About Me | 关于我
+## About
 
-🎯 **Focus on AI Product Manager & Business Analyst**  
-📊 Combining data-driven insights with AI tools to develop impactful products.  
-⚖️ Background in **Law**, **Business Administration**, and **Technology**.  
+AI Product Manager and Business Analyst with a cross-disciplinary background in **Law**, **Business Administration**, and **Technology**. I build AI-powered tools and decision systems that turn complex data into clear, actionable business outcomes.
 
-- **Focus**: Building AI-powered decision-making systems, product strategy, and automation tools.  
-- **Passion**: Transforming data into actionable insights for business growth.  
-- **Professional certificate**：PMP，ACCA Affiliate
----
-
-## 🛠️ Tech Stack | 技术栈
-
-**Languages & Data**  
-- Python · SQL · R
-
-**Data Analysis**  
-- Pandas · Stata · SPSS · Tableau
-
-**Web Development & AI**  
-- Flask · JavaScript · ECharts
-
-**Tools**  
-- Git · Jupyter · VSCode · Docker
-
----
-## 🌟 Featured Projects | 精选项目
-
-### 🔹 [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) ⭐1073
-> 📊 **Intelligent Data Analysis Agent for Business Analysts**
-
-- AI-powered data analysis platform that transforms raw data into actionable insights  
-- Built with **HTML + JavaScript + ECharts**  
-- Features: automated chart generation, data visualization, AI-driven analysis  
-- Topics: agent, ai, charts, data visualization, analysis
+- 🎯 Focused on AI product strategy, automation, and data-driven decision-making  
+- 🛠 From ideation to delivery — I work across the full product lifecycle  
+- 📜 Certifications: **PMP**, **ACCA Affiliate**, **Adobe Visual Design Specialist**
 
 ---
 
-### 🔹 [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) ⭐62
-> 🤖 **Automated Information Research Report Generator for OpenClaw**
+## Tech Stack
 
-- AI analyzes data and generates structured, customizable research reports  
-- Built with **Python**  
-- Use case: **Optimizing information research workflow** for data-intensive industries
-
----
-
-### 🔹 [Self Learning Agent](https://github.com/Zafer-Liu/Self_Learning_Agent) ⭐42
-> 🧠 **Build your own intelligent self-learning agent**
-
-- AI-powered agent that learns autonomously and adapts to new tasks  
-- Built with **TypeScript**  
-- Focus: **AI agent development** for autonomous decision-making and optimization
+| Domain | Tools |
+|---|---|
+| Languages | Python · SQL · R · TypeScript · JavaScript |
+| Data & Analysis | Pandas · Stata · SPSS · Tableau |
+| Web & AI | Flask · ECharts · Agent Frameworks |
+| DevOps & Tools | Git · Docker · Jupyter · VSCode |
 
 ---
 
-## 💼 Experience | 工作经验
+## Featured Projects
 
-- **DiDi** — Business Analyst (LatAm)  
-  *Mar 2026 – Jul 2026*  
-  Focused on **data analysis** to optimize operational strategies and drive decision-making.
+### [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) · ⭐ 1073
 
-- **KPMG** — Consulting Assistant  
-  *Oct 2025 – Feb 2026*  
-  Assisted in **data-driven consulting** for international clients, providing insights for strategic business decisions.
+> Intelligent data analysis platform for business analysts
 
-- **CUFE CSR Center** — Research Assistant  
-  *Dec 2024 – Mar 2025*  
-  Conducted **CSR research**, analyzing the impact of business on sustainable development policies.
+An AI-powered platform that transforms raw data into actionable insights, with automated chart generation and AI-driven analysis.  
+**Stack**: HTML · JavaScript · ECharts
 
 ---
 
-## 🎓 Education | 教育背景
+### [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) · ⭐ 62
 
-- **Tsinghua University** — Master of Law  
-  *2026 – 2028 (expected)*
+> AI-generated research reports for OpenClaw
 
-- **NEU** — Bachelor of Business Administration  
-  *2022 – 2026*
-
----
-
-## 🏆 Awards | 奖项
-
-- 🥈 **National Second Place** — "Shareholders Come" Final (Hunan TV)  
-- 🎾 **Tennis Doubles Runner-up**  
-- 🎨 **Adobe Visual Design Specialist**  
-- 🎓 **National Scholarship**
+Automates the full research workflow — from raw data ingestion to structured, customizable output — for data-intensive industries.  
+**Stack**: Python
 
 ---
 
-## 📫 Contact | 联系方式
+### [Self Learning Agent](https://github.com/Zafer-Liu/Self_Learning_Agent) · ⭐ 42
 
-- 📧 **Email**: Juxing2004@outlook.com  
+> Autonomous self-learning agent framework
+
+An AI agent that learns and adapts autonomously, designed for complex decision-making and optimization tasks.  
+**Stack**: TypeScript
 
 ---
 
-## 🌍  My Vision | 我的愿景
+## Experience
 
-Building AI products that **empower businesses** to make better, faster decisions using data insights. I believe in using technology to drive **strategic business growth**.
+**Tencent Technology** — Business Analyst Intern  
+`ongoing`  
+Business analysis within the Interactive Entertainment Group.
 
-**我的目标是：通过数据和AI技术，实现快速且明智的决策，推动企业战略实现。**
+**DiDi Global** — Business Analyst Intern 
+`Mar 2026 – Jun 2026`  
+Data analysis to optimize operational strategies and support decision-making across Latin America markets.
+
+**KPMG** — Consulting Assistant  
+`Oct 2025 – Feb 2026`  
+Data-driven consulting for international clients; delivered strategic insights and business recommendations.
+
+**CUFE CSR Center** — Research Assistant  
+`Dec 2024 – Mar 2025`  
+CSR research analyzing business impact on sustainable development policies.
+
+---
+
+## Education
+
+**Tsinghua University** — Master of Law · `2026 – 2028 (expected)`  
+**Northeastern University (NEU)** — Bachelor of Business Administration · `2022 – 2026`
+
+---
+
+## Awards
+
+| | |
+|---|---|
+| 🎓 | National Scholarship |
+| 🥇 | Gold Award — The 12th National Securities Investment Simulation Training Contest |
+| 🥇 | Gold Award — "Challenge Cup" |
+| 🥈 | Silver Award — "Shareholders Come" Final (Hunan TV) |
+| 🥈 | Silver Award — BirdCLEF+ 2026 |
+
+---
+
+## Vision
+
+> Building AI products that empower businesses to make better, faster decisions — by turning data into strategy.
+
+**我的目标是：通过数据与AI技术，实现快速且明智的决策，推动企业战略落地。**
+
+---
+
+<p align="center">
+  <a href="mailto:Juxing2004@outlook.com">Juxing2004@outlook.com</a>
+</p>
