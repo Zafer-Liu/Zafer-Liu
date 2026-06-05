@@ -68,7 +68,7 @@ An AI agent that learns and adapts autonomously, designed for complex decision-m
 
 ## Experience
 
-**Tencent Technology** — Business Analyst Intern  
+<img src="Image/tencent.png" height="16" style="vertical-align:middle"/> **Tencent Technology, IEG** — Business Analyst Intern  
 `ongoing`  
 Business analysis within the Interactive Entertainment Group.
 
