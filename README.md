@@ -1,142 +1,188 @@
-<h1 align="center">👋Hi, I'm Zafer Liu</h1>
+<h1 align="center">Hi, I'm Zafer Liu (刘同学)</h1>
 
 <p align="center">
-  <b>AI Product Manager · Business Analyst · Law & Technology</b>
+  <b>AI Product Manager · Business Analyst · AI Tool Builder</b>
+</p>
+
+<p align="center">
+  <a href="README.md"><b>English</b></a> · <a href="README.zh-CN.md">中文</a>
+</p>
+
+<p align="center">
+  <i>Building data-driven AI products, analytics agents, and workflow automation tools for better business decisions.</i>
 </p>
 
 <p align="center">
   <a href="mailto:Juxing2004@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Tsinghua%20University-7C1C2C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PMP%20Certified-0052CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ACCA%20Affiliate-007A4D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2DA44E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tsinghua%20University-7C1C2C?style=flat-square" alt="Tsinghua University" />
+  <img src="https://img.shields.io/badge/PMP-Certified-0052CC?style=flat-square" alt="PMP Certified" />
+  <img src="https://img.shields.io/badge/ACCA-Affiliate-007A4D?style=flat-square" alt="ACCA Affiliate" />
+  <img src="https://img.shields.io/badge/Open_to_Work-AI_PM_/_Business_Analyst-2DA44E?style=flat-square" alt="Open to Work" />
 </p>
 
 ---
 
 ## About
 
-AI Product Manager and Business Analyst with a cross-disciplinary background in **Law**, **Business Administration**, and **Technology**. I build AI-powered tools and decision systems that turn complex data into clear, actionable business outcomes.
+I am an **AI Product Manager**, **Business Analyst**, and hands-on **AI tool builder**. My work focuses on transforming business problems into data products, automation workflows, and intelligent agents that can support analysis, decision-making, and execution.
 
-- 🎯 Focused on AI product strategy, automation, and data-driven decision-making  
-- 🛠 From ideation to delivery — I work across the full product lifecycle  
-- 📜 Certifications: **PMP**, **ACCA Affiliate**, **Adobe Visual Design Specialist**
+My current focus is on:
+
+- **Business analytics and decision systems**: market research, operational diagnostics, financial analysis, data visualization, and strategy support.
+- **AI products and agentic workflows**: LLM agents, MCP tooling, autonomous analysis pipelines, and human-in-the-loop AI applications.
+- **Productized technical delivery**: shipping usable tools from idea to prototype, from prototype to repeatable workflow, and from workflow to product value.
+- **Structured reasoning and governance awareness**: applying legal training as a support layer for risk-aware, reliable, and compliance-conscious product design.
 
 ---
 
 ## Education
 
-<img src="Images/tsinghua.png" height="30" align="center" /> **Tsinghua University** — Master of Law · `2026 – 2028 (expected)`
-
-<img src="Images/neu.png" height="30" align="center" /> **Northeastern University** — Bachelor of Business Administration · `2022 – 2026`
-
-
----
-
-## Experience
-
 <table>
   <tr>
-    <td align="center" valign="middle">
-      <img src="Images/tencent.png" height="40" />
+    <td align="center" valign="middle" width="72">
+      <img src="Images/tsinghua.png" height="36" />
     </td>
     <td valign="middle">
-      <strong>Tencent Technology</strong> — Business Analyst Intern<br>
-      <code>ongoing</code><br>
-      Business analysis within the Interactive Entertainment Group.
+      <strong>Tsinghua University</strong> — Master of Law<br>
+      <code>2026 - 2028 expected</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center" valign="middle">
-      <img src="Images/didi.png" height="40" />
+    <td align="center" valign="middle" width="72">
+      <img src="Images/neu.png" height="36" />
     </td>
     <td valign="middle">
-      <strong>DiDi Global</strong> — Business Analyst Intern<br>
-      <code>Mar 2026 – Jun 2026</code><br>
-      Data analysis to optimize operational strategies and support decision-making across Latin America markets.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle">
-      <img src="Images/kpmg.png" height="30" />
-    </td>
-    <td valign="middle">
-      <strong>KPMG</strong> — Consulting Assistant<br>
-      <code>Oct 2025 – Feb 2026</code><br>
-      Data-driven consulting for international clients; delivered strategic insights and business recommendations.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle">
-      <img src="Images/ssrc.png" height="30" />
-    </td>
-    <td valign="middle">
-      <strong>CUFE SSRC</strong> — Research Assistant<br>
-      <code>Dec 2024 – Mar 2025</code><br>
-      CSR research analyzing business impact on sustainable development policies.
+      <strong>Northeastern University</strong> — Bachelor of Business Administration<br>
+      <code>2022 - 2026</code>
     </td>
   </tr>
 </table>
 
 ---
 
+## Experience
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Organization</th>
+      <th>Role</th>
+      <th>Business & technology focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" width="88">
+        <img src="Images/tencent.png" width="46" /><br>
+        <sub><b>Tencent</b></sub>
+      </td>
+      <td valign="middle">
+        <strong>Business Analyst Intern</strong><br>
+        <i>Interactive Entertainment Group</i><br>
+        <code>ongoing</code>
+      </td>
+      <td valign="middle">
+        Interactive entertainment research, market analysis, product insight synthesis, and data-supported business decision-making.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="88">
+        <img src="Images/didi.png" width="46" /><br>
+        <sub><b>DiDi</b></sub>
+      </td>
+      <td valign="middle">
+        <strong>Business Analyst Intern</strong><br>
+        <i>Latin America Markets</i><br>
+        <code>Mar 2026 - Jun 2026</code>
+      </td>
+      <td valign="middle">
+        Data analysis for operational strategy, business performance diagnostics, and market-level decision support.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="88">
+        <img src="Images/kpmg.png" width="46" /><br>
+        <sub><b>KPMG</b></sub>
+      </td>
+      <td valign="middle">
+        <strong>Consulting Assistant</strong><br>
+        <i>Management Consulting</i><br>
+        <code>Oct 2025 - Feb 2026</code>
+      </td>
+      <td valign="middle">
+        Business research, strategy analysis, process optimization, and structured consulting deliverables for enterprise clients.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="88">
+        <img src="Images/ssrc.png" width="46" /><br>
+        <sub><b>SSRC</b></sub>
+      </td>
+      <td valign="middle">
+        <strong>Research Assistant</strong><br>
+        <i>CSR & Sustainable Development</i><br>
+        <code>Dec 2024 - Mar 2025</code>
+      </td>
+      <td valign="middle">
+        CSR research, ESG-related policy analysis, and corporate sustainability impact evaluation.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## Featured Projects
 
-### <img src="Images/Data-Analysis-Agent.png" height="30" align="center" /> [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) · ⭐ 1073
-
-> Intelligent data analysis platform for business analysts
-
-An AI-powered platform that transforms raw data into actionable insights, with automated chart generation and AI-driven analysis.  
-**Stack**: HTML · JavaScript · ECharts
-
----
-
-### [Automated Information Research Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report) · ⭐ 62
-
-> AI-generated research reports for OpenClaw
-
-Automates the full research workflow — from raw data ingestion to structured, customizable output — for data-intensive industries.  
-**Stack**: Python
+| Project | What it does | Stack / Language | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent)** | LLM-powered data analysis assistant that generates visual reports and business insights through conversation. | Python · Data visualization · LLM | **2.0k+ stars**, flagship AI + analytics project |
+| **[Agent_Manager](https://github.com/Zafer-Liu/Agent_Manager)** | Cross-platform desktop application for managing AI agents and MCP servers. | TypeScript · Tauri · React · MCP | Agent infrastructure, productized developer tooling |
+| **[Automated-Information-Research-Report](https://github.com/Zafer-Liu/Automated-Information-Research-Report)** | Automated research-report workflow for collecting information and generating structured reports. | Python · Automation · LLM workflow | Research automation and structured reporting |
+| **[Narrative-Forge](https://github.com/Zafer-Liu/Narrative-Forge)** | Local semi-automatic director workstation for interactive films, games, and AI short drama production. | JavaScript · AI creation tools | Interactive narrative / AI content production |
+| **[VizPilot_AI](https://github.com/Zafer-Liu/VizPilot_AI)** | Chart-generation and data-analysis platform connected to the Data-Analysis-Agent ecosystem. | HTML · JavaScript · Charts | Visual analytics prototype |
 
 ---
 
-### [Self Learning Agent](https://github.com/Zafer-Liu/Self_Learning_Agent) · ⭐ 42
+## Published Articles
 
-> Autonomous self-learning agent framework
-
-An AI agent that learns and adapts autonomously, designed for complex decision-making and optimization tasks.  
-**Stack**: TypeScript
-
----
-
-
-
-
-## Awards
-
-| | |
-|---|---|
-| 🎓 | National Scholarship |
-| 🥇 | Gold Award — The 12th National Securities Investment Simulation Training Contest |
-| 🥇 | Gold Award — "Challenge Cup" |
-| 🥈 | Silver Award — "Shareholders Come" Final (Hunan TV) |
-| 🥈 | Silver Award — BirdCLEF+ 2026 |
+| Index | Article / column | Topic |
+| :--- | :--- | :--- |
+| Blog index | **[Zafer Albert on CSDN](https://blog.csdn.net/weixin_73795509?type=blog)** | AI agents, MCP, data analysis products, and engineering notes |
+| 2026.06.27 | **[当Agent需要动手干活：Tool还是MCP？](https://blog.csdn.net/weixin_73795509/article/details/162373717)** | Tool calling vs MCP architecture for agent capabilities |
+| 2026.06.22 | **[Agent 挂载工作目录之后：时光回退 Checkpoint 的工程实践](https://blog.csdn.net/weixin_73795509/article/details/162211000)** | Checkpoint and rollback design for file-operating agents |
+| 2026.06.09 | **[智析 Agent：用自然语言完成商业数据分析，从数据源到图表洞察一站式自动化](https://blog.csdn.net/weixin_73795509/article/details/161818572)** | Business data analysis agent and analytics workflow automation |
+| 2026.06.09 | **[智管AgentManager：一站式AI智能体管理神器](https://blog.csdn.net/weixin_73795509/article/details/161818498)** | AI agent manager, MCP tooling, and local agent operations |
 
 ---
 
-## Vision
+## Skills
 
-> Building AI products that empower businesses to make better, faster decisions — by turning data into strategy.
+| Area | Capabilities |
+| :--- | :--- |
+| **Business analysis** | Market research · operational diagnostics · financial modeling · strategy analysis · structured business reporting |
+| **AI product & agents** | AI product strategy · LLM agents · prompt engineering · MCP tools · workflow automation · human-in-the-loop design |
+| **Data & analytics** | Python · SQL · ECharts · data visualization · automated insight generation · dashboard prototyping |
+| **Product & project delivery** | Product planning · requirement analysis · roadmap design · agile execution · PMP methodology · prototype-to-product iteration |
 
-**我的目标是：通过数据与AI技术，实现快速且明智的决策，推动企业战略落地。**
+---
+
+## Honors & Credentials
+
+| Category | Achievement |
+| :---: | :--- |
+| Scholarship | **National Scholarship** |
+| Competition | **Gold Award** — The 12th National Securities Investment Simulation Training Contest |
+| Competition | **Gold Award** — Challenge Cup College Students Academic Technology Contest |
+| Competition | **Silver Award** — Shareholders Come Investor Rights Knowledge Competition |
+| Data Science | **Silver Award** — BirdCLEF+ 2026 |
+| Credentials | **PMP** · **ACCA Affiliate** · Adobe Visual Design Specialist |
 
 ---
 
 <p align="center">
+  <b>Open to AI product, business analytics, and intelligent decision-system opportunities.</b><br>
   <a href="mailto:Juxing2004@outlook.com">Juxing2004@outlook.com</a>
 </p>
