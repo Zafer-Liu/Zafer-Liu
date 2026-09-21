@@ -39,17 +39,6 @@
 
 ---
 
-## 📈 GitHub 数据
-
-<div align="center">
-  <img src="profile/stats.svg" height="170" alt="GitHub stats" />
-  <img src="profile/langs.svg" height="170" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Zafer-Liu&theme=transparent&hide_border=true" height="170" alt="GitHub streak" />
-</div>
-
----
-
 ## 🎓 教育背景
 
 <table>
@@ -148,15 +137,6 @@
 ---
 
 ## 🚀 代表项目
-
-<div align="center">
-  <a href="https://github.com/Zafer-Liu/Data-Analysis-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Data-Analysis-Agent&theme=transparent" alt="Data-Analysis-Agent" />
-  </a>
-  <a href="https://github.com/Zafer-Liu/Agent_Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Agent_Manager&theme=transparent" alt="Agent_Manager" />
-  </a>
-</div>
 
 | 项目 | 项目说明 | 技术栈 / 语言 | 亮点 |
 | :--- | :--- | :--- | :--- |

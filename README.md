@@ -39,17 +39,6 @@ My current focus is on:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="profile/stats.svg" height="170" alt="GitHub stats" />
-  <img src="profile/langs.svg" height="170" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Zafer-Liu&theme=transparent&hide_border=true" height="170" alt="GitHub streak" />
-</div>
-
----
-
 ## 🎓 Education
 
 <table>
@@ -148,15 +137,6 @@ My current focus is on:
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Zafer-Liu/Data-Analysis-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Data-Analysis-Agent&theme=transparent" alt="Data-Analysis-Agent" />
-  </a>
-  <a href="https://github.com/Zafer-Liu/Agent_Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Agent_Manager&theme=transparent" alt="Agent_Manager" />
-  </a>
-</div>
 
 | Project | What it does | Stack / Language | Highlights |
 | :--- | :--- | :--- | :--- |
