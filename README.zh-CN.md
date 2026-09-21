@@ -1,43 +1,56 @@
-<h1 align="center">你好，我是 Zafer Liu（刘同学）</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI 产品经理 · 商业分析师 · AI 工具构建者</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Zafer%20Liu%20%E5%88%98%E5%90%8C%E5%AD%A6&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%20%C2%B7%20%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90%E5%B8%88%20%C2%B7%20AI%20%E5%B7%A5%E5%85%B7%E6%9E%84%E5%BB%BA%E8%80%85&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=%E6%9E%84%E5%BB%BA%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E7%9A%84+AI+%E4%BA%A7%E5%93%81+%F0%9F%9A%80;LLM+Agent+%C2%B7+MCP+%E5%B7%A5%E5%85%B7+%C2%B7+%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96;%E4%BB%8E%E5%95%86%E4%B8%9A%E9%97%AE%E9%A2%98%E5%88%B0%E4%BA%A7%E5%93%81%E8%90%BD%E5%9C%B0" alt="Typing SVG" /></a>
+
+<p>
   <a href="README.md">English</a> · <a href="README.zh-CN.md"><b>中文</b></a>
 </p>
 
-<p align="center">
-  <i>面向商业决策，构建数据驱动的 AI 产品、分析 Agent 与自动化工作流工具。</i>
+<p>
+  <a href="mailto:Juxing2004@outlook.com"><img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.zaferliu.me"><img src="https://img.shields.io/badge/Portfolio-zaferliu.me-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://blog.csdn.net/weixin_73795509?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:Juxing2004@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
+<p>
   <img src="https://img.shields.io/badge/Tsinghua%20University-7C1C2C?style=flat-square" alt="Tsinghua University" />
   <img src="https://img.shields.io/badge/PMP-Certified-0052CC?style=flat-square" alt="PMP Certified" />
   <img src="https://img.shields.io/badge/ACCA-Affiliate-007A4D?style=flat-square" alt="ACCA Affiliate" />
   <img src="https://img.shields.io/badge/Open_to_Work-AI_PM_/_Business_Analyst-2DA44E?style=flat-square" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=Zafer-Liu&style=flat-square&color=2c5364" alt="Profile views" />
 </p>
+
+</div>
 
 ---
 
-## 关于我
+## 🧭 关于我
 
 我是一个兼具 **AI 产品经理**、**商业分析师** 与 **AI 工具构建者** 视角的实践者。我的核心关注点是把真实商业问题转化为数据产品、自动化工作流与智能 Agent，用技术提升分析、决策与执行效率。
 
 我当前重点关注：
 
-- **商业分析与决策系统**：市场研究、运营诊断、财务分析、数据可视化与战略支持。
-- **AI 产品与 Agent 工作流**：LLM Agent、MCP 工具、自动化分析管线、人机协同 AI 应用。
-- **技术产品化交付**：从想法到原型、从原型到可复用流程、从流程到产品价值的完整落地。
-- **结构化推理与治理意识**：将法学训练作为辅助能力，用于提升产品设计中的可靠性、风险意识与合规敏感度。
+- 📊 **商业分析与决策系统**：市场研究、运营诊断、财务分析、数据可视化与战略支持。
+- 🤖 **AI 产品与 Agent 工作流**：LLM Agent、MCP 工具、自动化分析管线、人机协同 AI 应用。
+- 🚀 **技术产品化交付**：从想法到原型、从原型到可复用流程、从流程到产品价值的完整落地。
+- ⚖️ **结构化推理与治理意识**：将法学训练作为辅助能力，用于提升产品设计中的可靠性、风险意识与合规敏感度。
 
 ---
 
-## 教育背景
+## 📈 GitHub 数据
+
+<div align="center">
+  <img src="profile/stats.svg" height="170" alt="GitHub stats" />
+  <img src="profile/langs.svg" height="170" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Zafer-Liu&theme=transparent&hide_border=true" height="170" alt="GitHub streak" />
+</div>
+
+---
+
+## 🎓 教育背景
 
 <table>
   <tr>
@@ -62,7 +75,7 @@
 
 ---
 
-## 职业经历
+## 💼 职业经历
 
 <table>
   <thead>
@@ -134,7 +147,16 @@
 
 ---
 
-## 代表项目
+## 🚀 代表项目
+
+<div align="center">
+  <a href="https://github.com/Zafer-Liu/Data-Analysis-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Data-Analysis-Agent&theme=transparent" alt="Data-Analysis-Agent" />
+  </a>
+  <a href="https://github.com/Zafer-Liu/Agent_Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Agent_Manager&theme=transparent" alt="Agent_Manager" />
+  </a>
+</div>
 
 | 项目 | 项目说明 | 技术栈 / 语言 | 亮点 |
 | :--- | :--- | :--- | :--- |
@@ -146,7 +168,7 @@
 
 ---
 
-## 发表文章
+## ✍️ 发表文章
 
 | 索引 | 文章 / 专栏 | 主题 |
 | :--- | :--- | :--- |
@@ -158,7 +180,13 @@
 
 ---
 
-## 技能矩阵
+## 🛠️ 技能矩阵
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,tauri,js,html,css,sqlite,git,github,vscode,figma&perline=6" alt="Tech stack" />
+</div>
+
+<br/>
 
 | 方向 | 能力 |
 | :--- | :--- |
@@ -169,20 +197,22 @@
 
 ---
 
-## 荣誉与认证
+## 🏆 荣誉与认证
 
 | 类别 | 成就 |
 | :---: | :--- |
-| 奖学金 | **国家奖学金** |
-| 竞赛 | **第十二届全国大学生证券投资模拟实训大赛金奖** |
-| 竞赛 | **挑战杯大学生课外学术科技作品竞赛金奖** |
-| 竞赛 | **“股东来了”投资者权益知识竞赛银奖** |
-| 数据科学 | **BirdCLEF+ 2026 银奖** |
-| 认证 | **PMP** · **ACCA Affiliate** · Adobe 视觉设计专家 |
+| 🎓 奖学金 | **国家奖学金** |
+| 🥇 竞赛 | **第十二届全国大学生证券投资模拟实训大赛金奖** |
+| 🥇 竞赛 | **挑战杯大学生课外学术科技作品竞赛金奖** |
+| 🥈 竞赛 | **“股东来了”投资者权益知识竞赛银奖** |
+| 🥈 数据科学 | **BirdCLEF+ 2026 银奖** |
+| 📜 认证 | **PMP** · **ACCA Affiliate** · Adobe 视觉设计专家 |
 
 ---
 
-<p align="center">
-  <b>欢迎交流 AI 产品、商业分析与智能决策系统相关机会。</b><br>
+<div align="center">
+  <b>欢迎交流 AI 产品、商业分析与智能决策系统相关机会。</b><br/>
   <a href="mailto:Juxing2004@outlook.com">Juxing2004@outlook.com</a>
-</p>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+</div>

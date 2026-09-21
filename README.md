@@ -1,43 +1,56 @@
-<h1 align="center">Hi, I'm Zafer Liu (刘同学)</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Product Manager · Business Analyst · AI Tool Builder</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Zafer%20Liu%20%E5%88%98%E5%90%8C%E5%AD%A6&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Manager%20%C2%B7%20Business%20Analyst%20%C2%B7%20AI%20Tool%20Builder&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+data-driven+AI+products+%F0%9F%9A%80;LLM+agents+%C2%B7+MCP+tooling+%C2%B7+workflow+automation;From+business+questions+to+shipped+products" alt="Typing SVG" /></a>
+
+<p>
   <a href="README.md"><b>English</b></a> · <a href="README.zh-CN.md">中文</a>
 </p>
 
-<p align="center">
-  <i>Building data-driven AI products, analytics agents, and workflow automation tools for better business decisions.</i>
+<p>
+  <a href="mailto:Juxing2004@outlook.com"><img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.zaferliu.me"><img src="https://img.shields.io/badge/Portfolio-zaferliu.me-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://blog.csdn.net/weixin_73795509?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:Juxing2004@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Juxing2004%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
+<p>
   <img src="https://img.shields.io/badge/Tsinghua%20University-7C1C2C?style=flat-square" alt="Tsinghua University" />
   <img src="https://img.shields.io/badge/PMP-Certified-0052CC?style=flat-square" alt="PMP Certified" />
   <img src="https://img.shields.io/badge/ACCA-Affiliate-007A4D?style=flat-square" alt="ACCA Affiliate" />
   <img src="https://img.shields.io/badge/Open_to_Work-AI_PM_/_Business_Analyst-2DA44E?style=flat-square" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=Zafer-Liu&style=flat-square&color=2c5364" alt="Profile views" />
 </p>
+
+</div>
 
 ---
 
-## About
+## 🧭 About
 
 I am an **AI Product Manager**, **Business Analyst**, and hands-on **AI tool builder**. My work focuses on transforming business problems into data products, automation workflows, and intelligent agents that can support analysis, decision-making, and execution.
 
 My current focus is on:
 
-- **Business analytics and decision systems**: market research, operational diagnostics, financial analysis, data visualization, and strategy support.
-- **AI products and agentic workflows**: LLM agents, MCP tooling, autonomous analysis pipelines, and human-in-the-loop AI applications.
-- **Productized technical delivery**: shipping usable tools from idea to prototype, from prototype to repeatable workflow, and from workflow to product value.
-- **Structured reasoning and governance awareness**: applying legal training as a support layer for risk-aware, reliable, and compliance-conscious product design.
+- 📊 **Business analytics and decision systems**: market research, operational diagnostics, financial analysis, data visualization, and strategy support.
+- 🤖 **AI products and agentic workflows**: LLM agents, MCP tooling, autonomous analysis pipelines, and human-in-the-loop AI applications.
+- 🚀 **Productized technical delivery**: shipping usable tools from idea to prototype, from prototype to repeatable workflow, and from workflow to product value.
+- ⚖️ **Structured reasoning and governance awareness**: applying legal training as a support layer for risk-aware, reliable, and compliance-conscious product design.
 
 ---
 
-## Education
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="profile/stats.svg" height="170" alt="GitHub stats" />
+  <img src="profile/langs.svg" height="170" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Zafer-Liu&theme=transparent&hide_border=true" height="170" alt="GitHub streak" />
+</div>
+
+---
+
+## 🎓 Education
 
 <table>
   <tr>
@@ -62,7 +75,7 @@ My current focus is on:
 
 ---
 
-## Experience
+## 💼 Experience
 
 <table>
   <thead>
@@ -134,7 +147,16 @@ My current focus is on:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Zafer-Liu/Data-Analysis-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Data-Analysis-Agent&theme=transparent" alt="Data-Analysis-Agent" />
+  </a>
+  <a href="https://github.com/Zafer-Liu/Agent_Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zafer-Liu&repo=Agent_Manager&theme=transparent" alt="Agent_Manager" />
+  </a>
+</div>
 
 | Project | What it does | Stack / Language | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -146,7 +168,7 @@ My current focus is on:
 
 ---
 
-## Published Articles
+## ✍️ Published Articles
 
 | Index | Article / column | Topic |
 | :--- | :--- | :--- |
@@ -158,7 +180,13 @@ My current focus is on:
 
 ---
 
-## Skills
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,tauri,js,html,css,sqlite,git,github,vscode,figma&perline=6" alt="Tech stack" />
+</div>
+
+<br/>
 
 | Area | Capabilities |
 | :--- | :--- |
@@ -169,20 +197,22 @@ My current focus is on:
 
 ---
 
-## Honors & Credentials
+## 🏆 Honors & Credentials
 
 | Category | Achievement |
 | :---: | :--- |
-| Scholarship | **National Scholarship** |
-| Competition | **Gold Award** — The 12th National Securities Investment Simulation Training Contest |
-| Competition | **Gold Award** — Challenge Cup College Students Academic Technology Contest |
-| Competition | **Silver Award** — Shareholders Come Investor Rights Knowledge Competition |
-| Data Science | **Silver Award** — BirdCLEF+ 2026 |
-| Credentials | **PMP** · **ACCA Affiliate** · Adobe Visual Design Specialist |
+| 🎓 Scholarship | **National Scholarship** |
+| 🥇 Competition | **Gold Award** — The 12th National Securities Investment Simulation Training Contest |
+| 🥇 Competition | **Gold Award** — Challenge Cup College Students Academic Technology Contest |
+| 🥈 Competition | **Silver Award** — Shareholders Come Investor Rights Knowledge Competition |
+| 🥈 Data Science | **Silver Award** — BirdCLEF+ 2026 |
+| 📜 Credentials | **PMP** · **ACCA Affiliate** · Adobe Visual Design Specialist |
 
 ---
 
-<p align="center">
-  <b>Open to AI product, business analytics, and intelligent decision-system opportunities.</b><br>
+<div align="center">
+  <b>Open to AI product, business analytics, and intelligent decision-system opportunities.</b><br/>
   <a href="mailto:Juxing2004@outlook.com">Juxing2004@outlook.com</a>
-</p>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+</div>
